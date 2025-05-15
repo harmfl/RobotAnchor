@@ -19,8 +19,8 @@
       />
     </a >
     </a >
-    <a href="https://github.com/ayangweb/BongoCat/releases">
-      <img src="https://img.shields.io/badge/version-v0.4.0-orange" alt="version-3" />
+    <a href="https://github.com/harmfl/RobotAnchor/releases/tag/v0.8.2">
+      <img src="https://img.shields.io/badge/version-v0.8.2-orange" alt="version-3" />
     </a >
   <br>
   <br />
@@ -39,7 +39,7 @@
 
 这是一个针对抖音平台的自动直播机器人，其包括直播弹幕抓取弹幕，TTS 语音生成回复弹幕问题，感谢粉丝礼物，声卡切换等核心功能。技术栈包括PyQt5信号槽机制和、QThread 多线程优化、Py爬虫、TTS等等。
 
-这里支持两种配置，一种是[Python环境配置](#python环境配置)，需要自己下载环境，通过IDE运行，可以通过代码详细查看各个部分的结构；另一种则是用包装好的EXE，不用配置环境，直接使用就可。
+这里支持两种配置，一种是[Python环境配置](#python环境配置)，需要自己下载环境，通过IDE运行，可以通过代码详细查看各个部分的结构；另一种则是用[包装好的EXE](https://github.com/harmfl/RobotAnchor/releases/tag/v0.8.2)（已发布在项目Releases），不用配置环境，直接使用就可。
 
 系统的核心功能使用指引：
 - **弹幕爬取**：请在直播间号码下方输入直播房间号，然后点击开始抓取弹幕就可以了，启动后会开启一个新的浏览器，这是正常的。
